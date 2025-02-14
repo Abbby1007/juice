@@ -1,6 +1,6 @@
 Melanotaenia
 
-**Team Members:** Abigail Loken, Damien Jennings, Carol Hercules, Diego Sanchez-Rivera
+**Team Members:** Abigail Loken, Damien Jennings,Diego Sanchez-Rivera
 
 **How would you pitch your game in one line?**
 It's like Celeste meets Doodle Hop but you have to worry about your colors
